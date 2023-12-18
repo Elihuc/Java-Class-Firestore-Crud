@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "151048750527",
+    "project_id": "firestoreapp-c1317",
+    "storage_bucket": "firestoreapp-c1317.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:151048750527:android:e1596020b73db2919e8d0a",
+        "android_client_info": {
+          "package_name": "com.elihu.firestoreapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "151048750527-08klmi67p33943qo3s49pe103fldhk1s.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAl0knsMEQZYiA06IiOkq8LUXLaztmXJhA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "151048750527-08klmi67p33943qo3s49pe103fldhk1s.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
